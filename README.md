@@ -6,7 +6,11 @@ The main idea that I want to convey through this project is efficient Retrival f
 - use of open source Models,Embeddinngs
 # Usage
 for using the project  
-- clone the repo
-- install requirements.txt
-- run bot.py file
-Also use own OpenAI API key setting it in the environment varialbe
+- clone the repo `git clone https://github.com/debrupf2946/Movie_GraphSerch_Chatbot`
+- install `requirements.txt`
+- run bot.py file `python bot.py`    
+Set OpenAI API KEY by
+1. `cd .streamlit`
+2. `mkdir secret.toml` file
+3. Write the nessecory API keys as per Project requiremnets in secret.toml file
+
