@@ -1,4 +1,4 @@
-## Movie Chatbot Based on Graph DataBase and Vector DataBase
+# Movie Chatbot Based on Graph DataBase and Vector DataBase
 I used Neo4J,OpenAI,OnpenEmbeddings,Langchain to build this Project   
 The main idea that I want to convey through this project is efficient Retrival from Graph DataBase and Semantic Search
 # Future Developments  
