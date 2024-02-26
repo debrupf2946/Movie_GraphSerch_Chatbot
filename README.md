@@ -9,4 +9,4 @@ for using the project
 - clone the repo
 - install requirements.txt
 - run bot.py file
-- also own OpenAI API key setting it in the environment varialbe
+Also use own OpenAI API key setting it in the environment varialbe
